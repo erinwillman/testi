@@ -3,4 +3,4 @@ Toinen rivi.
 Kolmas rivi.
 Loppu.
 Uusi rivi lisätty netissä.
-Kaveri päivitti tätä netissä.
+Oma muokkaus koneella.
